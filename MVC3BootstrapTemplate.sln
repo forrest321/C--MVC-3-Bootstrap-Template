@@ -5,7 +5,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC3BootstrapTemplate", "MV
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E0ABBCE2-9AB8-4897-9844-69BBF1E2D7F6}"
 	ProjectSection(SolutionItems) = preProject
+		MVC3BootstrapTemplate.zip = MVC3BootstrapTemplate.zip
 		README = README
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{5B1D2CC6-54C1-4214-82B6-BC62E2F1AB9F}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
 Global
@@ -21,5 +29,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B1D2CC6-54C1-4214-82B6-BC62E2F1AB9F} = {E0ABBCE2-9AB8-4897-9844-69BBF1E2D7F6}
 	EndGlobalSection
 EndGlobal
