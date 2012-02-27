@@ -1,0 +1,9 @@
+MVC 3 template using Razor, EF, and Bootstrap from Twitter
+
+Currently installed NuGet packages:
+ef 4.3.0
+jquery 1.7.1
+jquery.ui.combined 1.8.17
+jquery validation 1.9
+Data Annotations Extensions MVC3 1.0.1
+Glimpse.MVC3 0.87
