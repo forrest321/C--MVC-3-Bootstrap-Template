@@ -1,7 +1,9 @@
 MVC 3 template using Razor, EF, and Bootstrap from Twitter
 
+Bootstrap 1.4 http://twitter.github.com/bootstrap/ installed on 2.27.12
+
 Currently installed NuGet packages:
-ef 4.3.0
+entity framework 4.3.0
 jquery 1.7.1
 jquery.ui.combined 1.8.17
 jquery validation 1.9
